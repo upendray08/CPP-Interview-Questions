@@ -1,0 +1,8 @@
+program jab compiler run tabh 
+two memory allocate hoti hai program ko 
+ek stack memory or dusara toh heap memory 
+1.>  \memory tabh allocate hota hai jab program ko apan run runtime pe
+2.> apan pas do option hai stack memory use kar le ya firr heap ki memory use kar le 
+stack ko use kar le agar memory allocate hota hai toh static allocation kahte hai 
+aur jab heap ka use kar ke memory allocation hota hai tabh use dynamic memory allocation kahte hai simple 
+new char; keyword for DMA 
