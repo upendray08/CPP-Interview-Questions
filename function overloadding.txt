@@ -1,0 +1,9 @@
+It is better to over load one function instead of defining two functions
+to do the same thing. Remember multiple functions can have the same name
+until their datatype or parameters differ.
+
+Bitwise operator 
+files 
+pointer and reference 
+Functional overloadding
+classes and objects in c++

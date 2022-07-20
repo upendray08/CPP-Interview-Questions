@@ -1,0 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	string name = "upendra yadav";
+	cout<<name.length()<<endl;
+	name[1] ='n';
+	cout<<name<<endl;
+	cout<<name.find("dra",0)<<endl; //find(string,startIndex);
+	string namesubstr1 = name.substr(2,3); //substr(startIndex,lengthofsubstring);
+	cout<<namesubstr1<<endl;
+	return 0;
+}

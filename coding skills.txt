@@ -1,0 +1,11 @@
+Domain knowledge (expert)
+Programming Habits (Good Habits)
+variables name
+consistent style ::
+do you alway test :: 
+commit ::
+separete logic out ::
+
+Software and tools efficiency 
+Debugging and Obsure problem solving 
+11 year of coding 
